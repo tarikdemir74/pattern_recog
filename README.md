@@ -26,3 +26,6 @@ Kaggle Brain Tumor MRI Dataset: https://www.kaggle.com/datasets/masoudnickparvar
    ```
 3. Open `brain_tumor.ipynb` and update the dataset paths to match your local setup
 4. Run all cells in the notebook
+
+## GITHUB REPO:
+https://github.com/tarikdemir74/pattern_recog
